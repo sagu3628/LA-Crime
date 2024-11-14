@@ -4,6 +4,7 @@ Team name: TeamA
 Group member names:
 - Alex Philipsen
 - Saulo Guzman
+  
 The problem that teamA will solve is predicting the type of crime and how often it
 occurs in certain locations in Los Angeles County. The crime rate has risen in the
 California region over the years, and many first responders tend to lack
